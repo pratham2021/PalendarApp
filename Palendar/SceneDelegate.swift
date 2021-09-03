@@ -1,9 +1,6 @@
-//
 //  SceneDelegate.swift
 //  Palendar
-//
-//  Created by Pratham  Hebbar on 8/11/21.
-//
+//  Created by Pratham  Hebbar on 8/11/2021.
 
 import UIKit
 
