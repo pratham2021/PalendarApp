@@ -182,7 +182,6 @@
 				DE5AE35326C45B1E0018776A /* SceneDelegate.swift */,
 				DE6460CE26C47DDC00934E57 /* Utilities.swift */,
 				DE4BDB3D26C4701800A927BB /* Models */,
-				DE930E4E26C8155C00DA5169 /* New Models */,
 				DE4BDB3F26C4702B00A927BB /* Views */,
 				DE4BDB4026C4703300A927BB /* ViewControllers */,
 				DE17453C26C9807500D2C936 /* Helpers */,
@@ -203,13 +202,6 @@
 				DED18F3B26DACCB300AEBFBA /* RecentListener.swift */,
 			);
 			path = ChatHelpers;
-			sourceTree = "<group>";
-		};
-		DE930E4E26C8155C00DA5169 /* New Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Models";
 			sourceTree = "<group>";
 		};
 		EB7183901CEF0ECBD6559B22 /* Frameworks */ = {
